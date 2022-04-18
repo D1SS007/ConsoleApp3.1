@@ -7,6 +7,7 @@ namespace ConsoleApp3._1
         static void Main(string[] args)
         {
             Random random = new Random();
+            
             int sumOfSecondRow = 0;
             int multiplyOfFirstColumn = 1;
             int amountOfColumns = random.Next(4, 10);
